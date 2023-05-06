@@ -1,0 +1,33 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "Welcome to the Holler. All are welcome here.",
+    "MsgExitZone": "Be safe out there.",
+    "MsgOnLeavingZone": "LEAVING ZONE IN:",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 5636.0,
+            "Y": 5396.0,
+            "Radius": 100.0,
+            "Countdown": 10
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "WhitelistEntities": [],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198047475651",
+        "76561198047123456"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}

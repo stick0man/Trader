@@ -1,0 +1,160 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Holler Beverages",
+                "Holler Packaged Food",
+                "Holler Fruit & Veg",
+                "Holler Meat",
+                "Holler Fish",
+                "Holler Fungus",
+                "Holler Pelts",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Holler Vanilla Auto Parts",
+                "Holler Vanilla Vehicle Components",
+                "Holler Cars",
+                "Holler Heli Parts",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Holler Tools",
+                "Holler Gardening",
+                "Holler Base Building",
+                "Holler Base Decor",
+                "Holler Flags",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Holler Good Good",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Holler Hand Guns",
+                "Holler Bows",
+                "Holler Shotguns",
+                "Holler Sub Machine Guns",
+                "Holler Long Rifles",
+                "Holler Assault Rifles",
+                "Holler Sniper Rifles",
+                "Holler Just Mags",
+                "Holler Buttstocks",
+                "Holler Suppressors",
+                "Holler Compensators",
+                "Holler Optics",
+                "Holler Handguards & Rails",
+                "Holler Bayonets",
+                "Holler Melee & Blades",
+                "Holler Weapon Lights",
+                "Holler Weapon Care",
+                "Holler Ammo",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Holler Bags",
+                "Holler Gear",
+                "Holler Pouches",
+                "Holler Belts",
+                "Holler Vests",
+                "Holler Ghillies",
+                "Holler Patches & Armbands",
+                "Holler Camping & Survival",
+                "Holler Hunting & Fishing",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "Holler Electronics",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Holler Medical",
+                "Holler Protective Gear",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 8,
+            "Categories": [
+                "Teddy's Melee & Blades",
+                "Teddy's Pistols",
+                "Teddy's Machine Guns",
+                "Teddy's Sniper Rifles",
+                "Teddy's Shotguns",
+                "Teddy's Assault Rifles",
+                "Teddy's Bayonets",
+                "Teddy's Ammo",
+                "Teddy's Lights",
+                "Teddy's Suppressors",
+                "Teddy's Optics",
+                "Teddy's Attachments",
+                "Teddy's Halloween",
+                "Teddy's Covid",
+                "Teddy's Grenades",
+                "Teddy's Cosmetics",
+                "MVS Pants",
+                "MVS Tops",
+                "MVS Masks",
+                "MVS Hats",
+                "MVS Gear",
+                "MVS Vests",
+                "MVS Helmets",
+                "MVS Bags",
+                "Collectable",
+                "Masks",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 9,
+            "Categories": [
+                "Airsoft Weapons",
+                "Airsoft Clothing",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}
